@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Almeida2795
-- 📫 How to reach out to me? Email me on guifmalmeida@gmail.com or add me on Discord: ALMEIDA#7532
+- HNC Computing and HND Software Development - West Lothian College
+- BEng Software Engineering - Edinburgh Napier University(2023)
+- How to reach out to me? Email me at guifmalmeida@gmail.com
 
 <!---
 Almeida2795/Almeida2795 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
